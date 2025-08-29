@@ -3,7 +3,7 @@
 📊 A simple **full-stack SaaS MVP** built with **React + Convex**.  
 Features real-time docs, a Kanban-style task board, and a live analytics dashboard.
 
----
+--- 
 
 ## 🚀 Tech Stack
 - [React (Vite + TypeScript)](https://react.dev/)
